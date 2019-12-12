@@ -1,4 +1,4 @@
-module SourceKit [system] {
+module SourceKitHeader [system] {
   header "sourcekitd.h"
   export *
 }
